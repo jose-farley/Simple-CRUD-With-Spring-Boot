@@ -1,6 +1,6 @@
 # Rotas
 
-Obs.: Se não conseguir rodar extraia esse arquivo "atividade.rar" e abrar no netbeans. Dai é ele vai funcionar normalmente
+Obs.: Se não conseguir rodar extraia esse arquivo "atividade.rar" e abra no netbeans. Dai é ele vai funcionar normalmente
 ## Salvar produto
 - url: http://localhost:8080/products
 - method: POST
